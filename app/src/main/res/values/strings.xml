@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Crear example about navigation</string>
+    <string name="ButtonAfter">After</string>
+    <string name="tv1">SuperBowl</string>
+    <string name="ButtonBefore">Before</string>
+    <string name="tv2">Bengals-20 vs Rams-23</string>
+</resources>
